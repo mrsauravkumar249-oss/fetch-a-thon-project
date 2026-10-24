@@ -40,3 +40,15 @@
 - [ ] Verify the public GitHub repository.
 - [ ] Add actual agent details and working demo links.
 - [ ] Record the required 3–5 minute demo video.
+
+## Main Agent Details
+
+- Agent name: student_study_planner
+- Agent address: agent1qde973mp0kln649aawerl4ucn62ela2a9tevy87t9e02dspka3c2w552tsd
+
+## Integration Verification
+- [ ] Agent address confirmed with the main agent developer.
+- [ ] Agent is running and responds to valid requests.
+- [ ] Required ACP interaction works.
+- [ ] ASI:One interaction is verified.
+- [ ] Complete study-planning workflow is tested.
