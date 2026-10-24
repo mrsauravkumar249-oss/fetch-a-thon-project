@@ -1,58 +1,72 @@
-
-# Fetch-A-Thon 3.0 — AI Agent Project
+# Student Study Planner AI Agent
 
 ![tag:innovationlab](https://img.shields.io/badge/innovationlab-3D8BD3)
 ![tag:hackathon](https://img.shields.io/badge/hackathon-5F43F1)
 
 ## Overview
-[Explain in 2–3 sentences what our AI agent does.]
 
-## Problem
-[What real-world problem are we solving?]
+The Student Study Planner is an AI agent designed to help students manage their time, organize academic tasks, and create structured study schedules. It uses subjects, class timetables, exam dates, assignment deadlines, and available study hours to generate a practical study plan.
+
+## Problem Statement
+
+Students often struggle to balance classes, assignments, exams, revision, and personal time. This project aims to simplify planning by generating organized, achievable study schedules and helping students prioritize their academic work.
 
 ## Target Users
-[Who will benefit from this agent?]
+
+- School students
+- College and university students
+- Students preparing for examinations
+
+## Key Features
+
+- Daily and weekly study timetable generation
+- Subject and task prioritization
+- Exam and assignment deadline planning
+- Study sessions with breaks
+- Revision scheduling
+- Plan adjustments when tasks are delayed
 
 ## How It Works
-1. The user explains what they want.
-2. The agent interprets the request.
-3. The agent uses tools or other agents to perform useful work.
-4. The result is returned to the user through ASI:One.
+
+1. The student provides their subjects, deadlines, timetable, and available study hours.
+2. The agent identifies priorities and available time slots.
+3. The planner creates a structured study schedule.
+4. The student reviews the schedule and requests adjustments.
+5. The agent returns an updated plan when necessary.
 
 ## Technology Stack
+
 - Python
-- Fetch.ai uAgents (if used)
+- Fetch.ai uAgents, if used
 - Agentverse
 - ASI:One
-- [Add APIs and other libraries actually used]
+- AI model and scheduling tools to be documented after implementation
 
-## Agent Details
-- Agent name: [Add after creation]
-- Agent address: [Add after creation]
-- Agentverse profile: [Add URL after deployment]
+## Installation and Usage
 
-## Installation
-[Add the actual setup commands after the code is ready.]
-
-## How to Run
-[Add the verified command for running the project.]
+Setup instructions and run commands will be added after the application is implemented and tested.
 
 ## Testing
-[Describe the test cases and their results.]
+
+See [TESTING.md](TESTING.md) for the project testing checklist.
 
 ## Demo
-- ASI:One shared chat: [Add URL]
-- Demo video: [Add URL]
 
-## Team
-- Member 1: Main agent
-- Member 2: Tools and APIs
-- Member 3: Fetch.ai integration
-- Member 4: Testing, documentation and demo
+- Agentverse profile: To be added
+- ASI:One shared conversation: To be added
+- Demo video (3–5 minutes): To be added
+
+## Team Responsibilities
+
+- Member 1: Main AI agent
+- Member 2: Scheduling tools and APIs
+- Member 3: Fetch.ai platform integration
+- Member 4: Testing, documentation, and demo
 
 ## Security
-Never commit API keys, passwords, private seeds or `.env` files.
 
-## Credits
-Built for Fetch-A-Thon 3.0.
+Never commit API keys, passwords, access tokens, or private agent credentials.
 
+## Project Status
+
+In development for Fetch-A-Thon 3.0.
